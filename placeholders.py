@@ -2,8 +2,8 @@
 #05/abril/20
 #sistema de apoyo a las decisiones
 name = "Luz"
-age = "19"
-city= "Orizaba"
+age = "21"
+city= "Cordoba"
 state= "Veracruz"
 country= "Mexico"
 message = "my name is %s, im  %s years old \n"
