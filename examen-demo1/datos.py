@@ -2,6 +2,7 @@
 #15 abril 2021
 #Sistemas de apoyo a las decisiones.
 #Luz Medel
+#zs18021309
 
 a= "Luz Hernandez Medel"
 b= "zS18021309"
